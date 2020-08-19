@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa18ded8242cc32b820cf21b9f549710",
+    "revision": "d77fe18a78bbda6274340c7ece46c6c1",
     "url": "/arovez-technology/index.html"
   },
   {
@@ -128,8 +128,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/arovez-technology/static/js/9.6164dfa6.chunk.js"
   },
   {
-    "revision": "b033d61ba5629d6891a3",
-    "url": "/arovez-technology/static/js/main.a5281e7e.chunk.js"
+    "revision": "e7bf95aa0477d06b4b5d",
+    "url": "/arovez-technology/static/js/main.da6aa002.chunk.js"
   },
   {
     "revision": "5b4bfa3abba5e5ce7a71",

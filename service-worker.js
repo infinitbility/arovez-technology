@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/arovez-technology/precache-manifest.1f47f6e285e5546d16935b60d1523f44.js"
+  "/arovez-technology/precache-manifest.940052f2f3e8f5ed7513afb442201880.js"
 );
 
 self.addEventListener('message', (event) => {
